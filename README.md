@@ -22,9 +22,9 @@ __Description:__ Admin can maintian books and orders, Customers can search books
 
 #### Project Structure
 <p>
-  <img src="https://user-images.githubusercontent.com/26554853/184341338-cd36435d-d183-44c9-8ca7-bdc47d8fa86e.png" width="400" height="400"/>
-  <img src="https://user-images.githubusercontent.com/26554853/184341349-e57efa4f-d340-4ad3-badf-7e5e49049f6c.png" width="400" height="400"/>
-	<img src="https://user-images.githubusercontent.com/26554853/184341355-07bf06e4-a78d-4f41-acce-2b93c02b97ee.png" width="400" height="400"/>
+  <img src="https://user-images.githubusercontent.com/26554853/184341338-cd36435d-d183-44c9-8ca7-bdc47d8fa86e.png" />
+  <img src="https://user-images.githubusercontent.com/26554853/184341349-e57efa4f-d340-4ad3-badf-7e5e49049f6c.png" />
+	<img src="https://user-images.githubusercontent.com/26554853/184341355-07bf06e4-a78d-4f41-acce-2b93c02b97ee.png" />
 </p>
 
 #### Customers Pages
